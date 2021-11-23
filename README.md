@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasakMask
 - 👀 I’m interested in food
-- 🌱 I’m currently learning p
-- 💞️ I’m looking to collaborate on p
+- 🌱 I’m currently learning Mathematics
+- 💞️ I’m looking to collaborate on Japan
 - 📫 How to reach me game
 
 <!---
